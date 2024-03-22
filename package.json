@@ -1,0 +1,26 @@
+{
+  "name": "cupiditatequasi",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MacieNienow/cupiditatequasi.git"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "assert-rejects": "^0.1.1",
+    "mocha": "^5.2.0",
+    "p-sleep": "^1.1.0",
+    "standard": "^11.0.1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "author": "JaquanFunk",
+  "bugs": {
+    "url": "https://github.com/MacieNienow/cupiditatequasi.git/issues"
+  }
+}
